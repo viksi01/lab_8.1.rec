@@ -1,0 +1,5 @@
+﻿  UnitTest_8.1.rec.cpp
+D:\НУЛП\АП\lab_8.1.rec\lab_8.1.rec\lab_8.1.rec.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\НУЛП\АП\lab_8.1.rec\UnitTest_8.1.rec\UnitTest_8.1.rec.cpp(1): message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+     Creating library D:\НУЛП\АП\lab_8.1.rec\x64\Debug\UnitTest_8.1.rec.lib and object D:\НУЛП\АП\lab_8.1.rec\x64\Debug\UnitTest_8.1.rec.exp
+  UnitTest_8.1.rec.vcxproj -> D:\НУЛП\АП\lab_8.1.rec\x64\Debug\UnitTest_8.1.rec.dll
